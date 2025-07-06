@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Week3 - Spring Core and Maven/library_management/src/main/java/com/library/library_management",
         "Week2 - TDD using JUnit and Mockito/JUnit_Basic_Testing/src/main/java/com/example",
         "Week1 - Data Structures and Algorithms/FinancialForecasting",
         "Week1 - Data Structures and Algorithms/E-CommercePlatformSearchFunction",
-        "Week3 - Spring Core and Maven/library_management/src/main/java/com/library/library_management"
+        "Week3 - Spring Data JPA with Spring Boot, Hibernate/orm_learn/src/main/java/com/cognizant/orm_learn"
     ],
     "java.configuration.updateBuildConfiguration": "interactive"
 }
